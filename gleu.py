@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Author: c0braKai
 import requests, argparse
 """enumerates gitlab server for usernames"""
 
